@@ -1,2 +1,2 @@
 # course_finbionet
-script for course
+data and scripts for course
